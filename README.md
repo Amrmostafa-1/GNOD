@@ -14,7 +14,8 @@ The Song Recommender System is designed to help users discover new music that al
 - Data Preprocessing: Uses a Standard Scaler to normalize audio features.
 - Machine Learning Model: Employs KMeans clustering to group songs based on their audio features.
 - User-friendly Interface: Simply input a song name to receive a recommendation.
-Technologies Used
+
+## Technologies Used
 
 - Python
 - Pandas
